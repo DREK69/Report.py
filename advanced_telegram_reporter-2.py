@@ -13,7 +13,7 @@ from telethon.tl.types import *
 API_ID=28286832
 API_HASH="2a8fba924d58c9c3f928d7db2c149b47"
 BOT_TOKEN="7930383726:AAETy8tyvgZcP6UaPYuaQwLAkGUu9qyNJ4Q"
-ADMIN_IDS=[123456789]
+ADMIN_IDS=[8101867786]
 
 for d in ['sessions_db','temp_files','data','backups','logs','exports','cache','media']:
     os.makedirs(d,exist_ok=True)
