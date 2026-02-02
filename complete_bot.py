@@ -43,10 +43,9 @@ from telethon.tl.types import (
 )
 
 # Configuration
-API_ID = 28286832
-API_HASH = "2a8fba924d58c9c3f928d7db2c149b47"
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # ⚠️ REPLACE THIS
-
+API_ID = 25723056
+API_HASH = "cbda56fac135e92b755e1243aefe9697"
+BOT_TOKEN = "8528337956:AAGU7PX6JooceLLL7HkH_LJ27v-QaKyrZVw"
 # Create directories
 for d in ['sessions_db', 'temp_files', 'data', 'backups', 'logs', 'exports']:
     os.makedirs(d, exist_ok=True)
