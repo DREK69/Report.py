@@ -9,9 +9,9 @@ from telethon.tl.functions.account import ReportPeerRequest
 from telethon.tl.functions.messages import ReportRequest,CheckChatInviteRequest,ImportChatInviteRequest,GetMessagesRequest
 from telethon.tl.functions.channels import JoinChannelRequest,LeaveChannelRequest,GetParticipantsRequest
 from telethon.tl.types import (InputReportReasonSpam,InputReportReasonViolence,InputReportReasonPornography,InputReportReasonChildAbuse,InputReportReasonCopyright,InputReportReasonFake,InputReportReasonIllegalDrugs,InputReportReasonPersonalDetails,InputReportReasonOther,InputReportReasonGeoIrrelevant,ChannelParticipantsRecent,Channel,Chat,User)
-API_ID=28286832
-API_HASH="2a8fba924d58c9c3f928d7db2c149b47"
-BOT_TOKEN="7930383726:AAETy8tyvgZcP6UaPYuaQwLAkGUu9qyNJ4Q"
+API_ID = 25723056
+API_HASH = "cbda56fac135e92b755e1243aefe9697"
+BOT_TOKEN = "8528337956:AAGU7PX6JooceLLL7HkH_LJ27v-QaKyrZVw"
 for d in ['sessions_db','temp_files','data','backups','logs','exports','cache']:
     os.makedirs(d,exist_ok=True)
 logging.basicConfig(level=logging.INFO,format='%(asctime)s-%(levelname)s-%(message)s',handlers=[logging.FileHandler(f'logs/bot_{datetime.now().strftime("%Y%m%d")}.log'),logging.StreamHandler()])
