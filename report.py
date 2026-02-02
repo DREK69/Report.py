@@ -9,9 +9,9 @@ from datetime import datetime, timedelta
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-API_ID = 28286832
-API_HASH = "2a8fba924d58c9c3f928d7db2c149b47"
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+API_ID = 25723056
+API_HASH = "cbda56fac135e92b755e1243aefe9697"
+BOT_TOKEN = "8528337956:AAGU7PX6JooceLLL7HkH_LJ27v-QaKyrZVw"
 SESSIONS_DIR = "sessions_db"
 TEMP_DIR = "temp_files"
 DATA_DIR = "data"
