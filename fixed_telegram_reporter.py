@@ -10,9 +10,9 @@ from telethon.tl.functions.messages import ReportRequest,CheckChatInviteRequest,
 from telethon.tl.functions.channels import JoinChannelRequest,LeaveChannelRequest,GetParticipantsRequest
 from telethon.tl.types import *
 
-API_ID=27157163
-API_HASH="e0145db12519b08e1d2f5628e2db18c4"
-BOT_TOKEN="7930383726:AAETy8tyvgZcP6UaPYuaQwLAkGUu9qyNJ4Q"
+API_ID=25723056
+API_HASH="cbda56fac135e92b755e1243aefe9697"
+BOT_TOKEN="8528337956:AAGU7PX6JooceLLL7HkH_LJ27v-QaKyrZVw"
 ADMIN_IDS=[8101867786]
 REQUIRED_CHANNEL="https://t.me/+-nGOXtIfUrBkOGM1"
 
