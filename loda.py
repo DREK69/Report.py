@@ -34,7 +34,7 @@ from telethon.tl.types import (
     ReplyKeyboardMarkup,
     ReplyKeyboardHide
 )
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8528337956:AAGU7PX6JooceLLL7HkH_LJ27v-QaKyrZVw"
 API_ID = 25723056
 API_HASH = "cbda56fac135e92b755e1243aefe9697"
 OWNER_IDS = [123456789]
