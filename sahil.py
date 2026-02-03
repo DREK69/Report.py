@@ -81,9 +81,7 @@ BOT_API_ID = 25723056
 BOT_API_HASH = "cbda56fac135e92b755e1243aefe9697"
 BOT_TOKEN = "8528337956:AAGU7PX6JooceLLL7HkH_LJ27v-QaKyrZVw"
 
-# ⚠️ CRITICAL: Replace with YOUR Telegram User ID (not bot ID!)
-# Get it from @userinfobot on Telegram
-ADMIN_USER_IDS = [123456789]  # 👈 REPLACE THIS!
+ADMIN_USER_IDS = [8101867786]
 
 REASON_MAP = {
     1: ("Spam Messages", InputReportReasonSpam, "Unsolicited bulk messages or advertisements"),
