@@ -37,7 +37,7 @@ from telethon.tl.types import (
 BOT_TOKEN = "8528337956:AAGU7PX6JooceLLL7HkH_LJ27v-QaKyrZVw"
 API_ID = 25723056
 API_HASH = "cbda56fac135e92b755e1243aefe9697"
-OWNER_IDS = [123456789]
+OWNER_IDS = [8101867786]
 USERS_DB_FILE = Path("bot_users.json")
 SESSIONS_DIR = Path("user_sessions")
 REPORTS_LOG_FILE = Path("reports_log.json")
