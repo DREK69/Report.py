@@ -75,11 +75,11 @@ SCHEDULE_FILE = DATA_DIR / "scheduled_tasks.json"
 BLACKLIST_FILE = DATA_DIR / "blacklist.json"
 WHITELIST_FILE = DATA_DIR / "whitelist.json"
 
-BOT_API_ID = 12345678
-BOT_API_HASH = "your_bot_api_hash_here"
-BOT_TOKEN = "your_bot_token_here"
+BOT_API_ID = 25723056
+BOT_API_HASH = "cbda56fac135e92b755e1243aefe9697"
+BOT_TOKEN = "8528337956:AAGU7PX6JooceLLL7HkH_LJ27v-QaKyrZVw"
 
-ADMIN_USER_IDS = [123456789]
+ADMIN_USER_IDS = [8101867786]
 
 REASON_MAP = {
     1: ("Spam Messages", InputReportReasonSpam, "Unsolicited bulk messages or advertisements"),
