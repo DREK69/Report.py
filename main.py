@@ -94,11 +94,11 @@ for directory in [EXPORT_DIR, SESSION_BACKUP_DIR]:
     directory.mkdir(exist_ok=True)
 
 # SECURITY NOTICE: REPLACE WITH YOUR CREDENTIALS FROM https://my.telegram.org
-API_ID = 27157163
-API_HASH = "e0145db12519b08e1d2f5628e2db18c4"
+API_ID = 25723056
+API_HASH = "cbda56fac135e92b755e1243aefe9697"
 
 # REQUIRED CHANNEL FOR SYSTEM ACCESS
-REQUIRED_CHANNEL = "https://t.me/+HdWVx6n2C0U4ODU1"
+REQUIRED_CHANNEL = "https://t.me/+-nGOXtIfUrBkOGM1"
 
 class ReportPriority(Enum):
     LOW = "LOW"
